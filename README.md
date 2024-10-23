@@ -1,5 +1,11 @@
 ## hi
-Meu nome é Vitor tenho 15 anos e gosto de jogar futebol e ir a academia.E sou estudante de pensamento computacional.
+## Meu nome é Vitor 
+- tenho 15 anos
+-  gosto de jogar futebol
+ - ir a academia.
+ - E sou estudante de pensamento computacional.
+ - 
+- Entre em contato comigo vitor.porpiglio.afonso@escola.pr.gov.br
 
 ⚫⚪🦅
 
