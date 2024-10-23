@@ -1,5 +1,5 @@
 ## hi
-Meu nome é Vitor tenho 15 anos e gosto de jogar futebol e ir a academia.E sou estudante de pensamento computacional
+Meu nome é Vitor tenho 15 anos e gosto de jogar futebol e ir a academia.E sou estudante de pensamento computacional.
 
 ⚫⚪🦅
 
